@@ -30,7 +30,7 @@ git clone https://github.com/yourusername/atm-simulator.git
 
 4. Set up the MySQL database:
    Create a new database schema.
-   Execute the SQL script to create the necessary tables.
+   Execute the SQL script (provided in the database file) to create the necessary tables.
 
 5. Configure database connection:
    Open the conn.java file in the src folder.
